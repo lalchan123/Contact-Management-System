@@ -2,7 +2,7 @@
 ```
 https://contact-management-system-rc13.vercel.app/
 ```
-# Project Live Link Backend Admin Panel
+<!-- # Project Live Link Backend Admin Panel
 ```
 https://contact.itb-usa.a2hosted.com/admin/login/?next=/admin/
 ```
@@ -11,6 +11,7 @@ https://contact.itb-usa.a2hosted.com/admin/login/?next=/admin/
 username: lalchan
 password: lalchan
 ```
+-->
 
 # follow the instruction for the project run
 ## download or clone the project this brance and extract the project
